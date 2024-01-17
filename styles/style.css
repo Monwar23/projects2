@@ -401,7 +401,13 @@ img {
         margin-bottom: 15px;
         line-height: 15px;
     }
-
+    .box-shadow{
+        margin-left: 10px;
+        width: 350px;
+    }
+    .inner{
+        margin-left: 100px;
+    }
     .btn-group,
     .popular-tour,
     .row,
