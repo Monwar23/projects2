@@ -412,16 +412,18 @@ img {
     .btn-group,
     .popular-tour,
     .row,
-    .cartoon {
+    .cartoon, .content-box {
         flex-direction: column;
     }
 
     .cartoon1,
     .cartoon2,
-    .cartoon3 {
+    .cartoon3 , .input-des{
         width: 310px;
     }
-
+    .one{
+        width: 278px;
+    }
     .cartoon3 {
         margin-left: 0px;
     }
